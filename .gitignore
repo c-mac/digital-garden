@@ -2,8 +2,14 @@
 .obisidan/*
 
 Journal/
-Louis
 Templates/
+dev_blog/
+daily_notes/
+needs_processing(old)/
+
+# TODO: un-ignore if I want to do zettely things?
+Permanent notes/
+Reference notes/
 
 .trash/
 .DS_Store
